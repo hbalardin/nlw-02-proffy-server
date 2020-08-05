@@ -26,7 +26,10 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "camelcase": "off",
+    "class-methods-use-this": "off",
+    "func-names": "off"
   },
   "settings": {
     "import/resolver": {
